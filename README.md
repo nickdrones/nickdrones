@@ -8,4 +8,4 @@ My name is Nicholas Belbas, I'm a Cyber Engineering student at Houston Baptist U
 - 👯 I’m looking to collaborate on a plugin for Forza Motorsports or BeamNG to communicate with an Oculus Rift 2 Dev Kit
 - 🤔 I’m looking for help with automating my workflow for digitzing analog video tapes
 - 📫 How to reach me: You can email me at nickshdmifilms@protonmail.com
-- ⚡ Fun fact: I discovered an unpredictable variation of the Windows RDP "Pass The Hash" exploit that is still present in Windows Server 2016
+- ⚡ Fun fact: Still gotta come up with something ;-)
